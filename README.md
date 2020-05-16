@@ -1,5 +1,5 @@
 # HackerRank - 30 Days of Code
-## Here are my solutions to the `# HackerRank - ` practice tutorial on HackerRank.
+## Here are my solutions to the `# HackerRank - 30 Days of Code` practice tutorial on HackerRank.
 
 
 > Day 00
