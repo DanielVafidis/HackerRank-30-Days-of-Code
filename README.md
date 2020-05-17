@@ -7,6 +7,11 @@
 [Hello, World!](Day-00/Hello-World.js)
 
 
->Day 01
+> Day 01
 
 [Data Types](Day-01/Data-Types.js)
+
+
+> Day 02
+
+[Operators](Day-02/Operators.js)
