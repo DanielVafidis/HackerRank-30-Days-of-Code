@@ -15,3 +15,8 @@
 > Day 02
 
 [Operators](Day-02/Operators.js)
+
+
+> Day 03
+
+[Intro to Conditional Statements](Day-03/Intro-to-Conditional-Statements.js)
