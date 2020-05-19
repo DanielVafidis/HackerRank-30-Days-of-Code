@@ -20,3 +20,8 @@
 > Day 03
 
 [Intro to Conditional Statements](Day-03/Intro-to-Conditional-Statements.js)
+
+
+> Day 04
+
+[Class vs Instance](Day-04/Class-vs-Instance.js)
