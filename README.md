@@ -25,3 +25,8 @@
 > Day 04
 
 [Class vs Instance](Day-04/Class-vs-Instance.js)
+
+
+> Day 05
+
+[Loops](Day-05/Loops.js)
