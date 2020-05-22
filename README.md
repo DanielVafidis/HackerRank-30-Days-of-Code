@@ -30,3 +30,8 @@
 > Day 05
 
 [Loops](Day-05/Loops.js)
+
+
+> Day 06
+
+[Let's Review](Day-06/Lets-Review.js)
