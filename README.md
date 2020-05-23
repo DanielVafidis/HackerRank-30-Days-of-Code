@@ -35,3 +35,8 @@
 > Day 06
 
 [Let's Review](Day-06/Lets-Review.js)
+
+
+> Day 07
+
+[Arrays](Day-07/Arrays.js)
