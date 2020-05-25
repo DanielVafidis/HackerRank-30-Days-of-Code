@@ -24,3 +24,6 @@
 
 
 > Day 07: [Arrays](Day-07/Arrays.js)
+
+
+> Day 08: [Dictionaries and Maps](Day-08/Dictionaries-and-Maps.js)
