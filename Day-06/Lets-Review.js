@@ -6,7 +6,7 @@ function processData(input) {
     //loop through the different splitted arrays
     for (let i = 1; i < data.length; i++) {
 
-        //init result for each array
+        // init result for each array
         let res = [];
         let res2 = [];
         let arr = data[i]
