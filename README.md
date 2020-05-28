@@ -33,3 +33,6 @@
 
 
 > Day 10 : [Binary Numbers](Day-10/Binary-Numbers.js)
+
+
+> Day 11 : [2D Arrays](Day-11/2D-Arrays.js)
