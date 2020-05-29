@@ -36,3 +36,6 @@
 
 
 > Day 11 : [2D Arrays](Day-11/2D-Arrays.js)
+
+
+> Day 12 : [Inheritance](Day-12/Inheritance.js)
