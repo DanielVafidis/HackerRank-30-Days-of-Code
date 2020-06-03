@@ -29,3 +29,5 @@
 > Day 12 : [Inheritance](Day-12/Inheritance.js)
 
 > Day 13 : [Abstract Class](Day-13/Abstract-Class.js)
+
+> Day 14 : [Scope](Day-14/Scope.py)
